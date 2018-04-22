@@ -7,3 +7,11 @@
 **Thoughts:** Decided on vue; used the PWA template in hopes that I can "install" this on my mobile device. Made decent progress with app skeleton.
 
 **Link to work:** https://github.com/tomgeekery/health-tracker/commit/33df17060022cd11a8b48ba7e8980d3b1844ddb2
+
+### Day 2: April 22, 2018
+
+**Today's Progress**: Updated some styling; added icons for switching between fitness and food
+
+**Thoughts:** Concentrated too much on front end look instead of getting the functionality going. That is a common problem for me =]
+
+**Link to work:** https://github.com/tomgeekery/health-tracker/commit/788b99e7774297b96efdbbf5437b18dbcbde3e22
