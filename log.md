@@ -22,5 +22,5 @@
 
 **Thoughts:** Made a lot of progress on passing around data to different component with vue. Quite enjoyed it! App is nearly ready to be used on my phone.
 
-**Link to work:** https://github.com/tomgeekery/health-tracker/commit/788b99e7774297b96efdbbf5437b18dbcbde3e22
+**Link to work:** https://github.com/tomgeekery/health-tracker/commit/3c33a2d65646463e8239943ee52e72ba24bd3f9d
 
