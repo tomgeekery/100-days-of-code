@@ -24,3 +24,11 @@
 
 **Link to work:** https://github.com/tomgeekery/health-tracker/commit/3c33a2d65646463e8239943ee52e72ba24bd3f9d
 
+### Day 4: April 24, 2018
+
+**Today's Progress**: Updated a lot of styling to make the app look and operate a bit better
+
+**Thoughts:** Tried using the app yesterday to help track my fitness and food progress; wrote down a few improvements that could be made; made those improvements!
+
+**Link to work:** https://github.com/tomgeekery/health-tracker/commit/db545f49471bbf4bdfebc3d9a4d69e76207ac529
+
