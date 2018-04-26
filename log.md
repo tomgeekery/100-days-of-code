@@ -32,3 +32,12 @@
 
 **Link to work:** https://github.com/tomgeekery/health-tracker/commit/db545f49471bbf4bdfebc3d9a4d69e76207ac529
 
+### Day 4: April 25, 2018
+
+**Today's Progress**: Added some code to the JAMstack club that I host at work
+
+**Thoughts:** Learned a bit about cssnano and uncss, very excited about the idea of making web applications for performant
+
+**Link to work:** https://github.com/tomgeekery/jamstack-club/commit/ac376a40a83c5e4bbcea6d59a40c57cb00740ba8
+
+
