@@ -32,12 +32,18 @@
 
 **Link to work:** https://github.com/tomgeekery/health-tracker/commit/db545f49471bbf4bdfebc3d9a4d69e76207ac529
 
-### Day 4: April 25, 2018
+### Day 5: April 25, 2018
 
 **Today's Progress**: Added some code to the JAMstack club that I host at work
 
-**Thoughts:** Learned a bit about cssnano and uncss, very excited about the idea of making web applications for performant
+**Thoughts:** Learned a bit about cssnano and uncss, very excited about the idea of making web applications more performant
 
 **Link to work:** https://github.com/tomgeekery/jamstack-club/commit/ac376a40a83c5e4bbcea6d59a40c57cb00740ba8
 
+### Day 5: April 26, 2018
 
+**Today's Progress**: Stored food log in local storage
+
+**Thoughts:** Struggled with using a submit button or trying to save user input after they were done typing; went with the submit button
+
+**Link to work:** https://github.com/tomgeekery/health-tracker/commit/13979abb1643460cfb0b2b9af6a0cb79fb2192ee
